@@ -35,7 +35,3 @@ export default defineConfig({
   },
   base: '/ptui-vuetify3/'
 })
-
-module.exports = {
-  publicPath: '/ptui-vuetify3/'
-}
