@@ -310,7 +310,7 @@ export default {
 .v-sheet {
   @media (min-width: 0px) {
     &.alerts-overview {
-      background: linear-gradient(180deg, #D6EBFF 50%, #FFFFFF 50%);
+      background: linear-gradient(180deg, #D6EBFF 44%, #FFFFFF 44%);
     }
   }
 
