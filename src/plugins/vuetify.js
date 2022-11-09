@@ -24,6 +24,8 @@ export default createVuetify({
           ptroyal50: '#F0F4FA',
           ptroyal100: '#CEDAEC',
           green700: '#15663E',
+          secondaryText: '#3D4A61',
+          navy150: '#B6BBC6'
         },
       },
     },
